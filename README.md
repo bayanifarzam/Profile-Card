@@ -8,5 +8,5 @@
 - Done
 
 
-![title](public/images/shot.png.png)
+![title](public/images/shot.png)
 
